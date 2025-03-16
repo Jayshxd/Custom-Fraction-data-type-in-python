@@ -1,6 +1,7 @@
 from math import gcd
 
 class Fraction:
+    #this is sample change
 
     def __init__(self,Numerator,Denominator):
         if Denominator==0:
